@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VisualProgWeek2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_soal_marsha">SoalMarsha</string>
+    <string name="title_activity_soal_marsha2">SoalMarsha2</string>
+    <string name="title_activity_soal_mimi3">SoalMimi3</string>
+    <string name="title_activity_soal_mimi4">SoalMimi4</string>
+</resources>
